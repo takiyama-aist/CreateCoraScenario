@@ -55,14 +55,14 @@ CSV形式で記載する。1行に1イベント記載。
 <hr>
 
 ## 起動パラメータ
-kafka.confに記載。-Dで指定も可能。  
+cora.confに記載。-Dで指定も可能。  
 以下パラメータ。
 
-### 1. kafka.filePathCites
+### 1. cora.filePathCites
 cora.citesのフルパス。
-### 2. kafka.filePathContent
+### 2. cora.filePathContent
 cora.contentのフルパス。
-### 3. kafka.outScenarioPath
+### 3. cora.outScenarioPath
 シナリオファイルを生成するパス。
 
 
